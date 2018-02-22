@@ -11,7 +11,7 @@ def display_card_total
 end
 
 def prompt_user
-  
+  puts "Type 'h' to hit for 's' to stay" 
 end
 
 def get_user_input
