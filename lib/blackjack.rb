@@ -32,7 +32,8 @@ def hit?(arg)
   prompt_user
   input = get_user_input
 
-
+if input === "s"
+  
 
 end
 
