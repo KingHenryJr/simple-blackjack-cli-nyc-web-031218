@@ -6,12 +6,12 @@ def deal_card
   return rand(1..11)
 end
 
-def display_card_total
-  puts deal_card
+def display_card_total(total)
+  print total
 end
 
 def prompt_user
-  puts "Type 'h' to hit for 's' to stay" 
+  puts "Type 'h' to hit or 's' to stay" 
 end
 
 def get_user_input
