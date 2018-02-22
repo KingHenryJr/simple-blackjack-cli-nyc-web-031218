@@ -34,7 +34,8 @@ def hit?(arg)
 
 if input === "s"
   card_total
-
+elsif input === "h"
+  deal_card
 
 end
 
