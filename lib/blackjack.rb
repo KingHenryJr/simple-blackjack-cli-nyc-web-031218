@@ -28,7 +28,7 @@ def initial_round()
   return round1
 end
 
-def hit?
+def hit?(arg)
   prompt_user
   get_user_input
 end
