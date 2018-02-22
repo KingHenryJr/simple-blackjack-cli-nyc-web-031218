@@ -7,11 +7,11 @@ def deal_card
 end
 
 def display_card_total
-  # code #display_card_total here
+  puts deal_card
 end
 
 def prompt_user
-  # code #prompt_user here
+  
 end
 
 def get_user_input
