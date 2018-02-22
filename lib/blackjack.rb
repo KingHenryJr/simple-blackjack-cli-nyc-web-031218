@@ -52,7 +52,9 @@ def runner
   initial_round
   until total > 21
     hit
+  end
   
+  end_game
   
   
 end
