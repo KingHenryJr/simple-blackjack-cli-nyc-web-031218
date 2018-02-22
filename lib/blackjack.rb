@@ -36,7 +36,7 @@ if input === "s"
   card_total
 elsif input === "h"
   deal_card
-
+end
 end
 
 def invalid_command
